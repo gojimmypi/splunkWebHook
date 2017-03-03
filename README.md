@@ -4,6 +4,10 @@ Basic proof of concept for Splunk webHook JSON receiver.
 
 See: http://docs.splunk.com/Documentation/Splunk/latest/Alert/Webhooks
 
+The whole project is here, but the main details can be summarized:
+![alt tag](https://github.com/gojimmypi/splunkWebHook/blob/master/doc/webHook%20sample.PNG?raw=true)
+
+
 Use a webhook alert action:
 http://docs.splunk.com/Documentation/Splunk/6.4.4/Alert/Webhooks#Configure_a_webhook_alert_action
 
